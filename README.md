@@ -169,7 +169,4 @@ You may wish to create additional widgets to further modularize your code. As a 
 
 Your implementation should not make use of any global variables or functions. All data should be encapsulated in your model classes, and you should use one of the state management techniques discussed in class (e.g., `ChangeNotifier`, `ListenableBuilder`, `provider`) to manage the state of your UI.
 
-## 4. Testing
-
-In your `REPORT.md` file, please indicate which of the listed platforms you have tested your app on. We will test your application by building and running it in one of your selected platforms, and manually verifying that it meets the requirements outlined above.
 
